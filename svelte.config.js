@@ -9,7 +9,7 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			base: "/merge-berlin-lix-demo"
-		}
+		},
 	}
 };
 
